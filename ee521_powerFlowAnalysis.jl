@@ -4,3 +4,4 @@ using VegaLite
 
 data = dataset("iris")
 print(data)
+vscodedisplay(data)
